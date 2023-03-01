@@ -17,4 +17,7 @@ cat/etc/passwd
 cat /etc/group
 id username
 sudo lid -g username
-
+cd
+df
+!!
+history
