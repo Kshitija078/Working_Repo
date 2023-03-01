@@ -1,1 +1,1 @@
-echo  " Hello doing good ! thank you"
+echo" Hello doing good ! thank you"
